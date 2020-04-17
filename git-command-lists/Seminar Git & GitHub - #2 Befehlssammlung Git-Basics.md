@@ -8,6 +8,8 @@
 * ``git config --global --unset user.name`` Löscht den global eingetragenen Konfigurationseintrag von ``user.name``.  
 aus welcher der 3 config-Dateien kommen die Konfigurationen
 * ``git config --list --show-origin``
+# Shortcut für list config
+* ``git config -l``
   
 ## Wichtigste Befehle in einem Projekt
 * ``git init`` Legt im aktuellen Ordner ein neues (lokales) Git-Repository an.
